@@ -51,8 +51,7 @@ Design that’s not just beautiful — it’s **usable**, **delightful**, and co
 ### 🧰 Tools & DevOps
 ✅ Git (GitHub/GitLab) • SVN  
 ✅ Docker • Vagrant  
-✅ SSH • SFTP • FTPD  
-✅ PhpStorm
+✅ PhpStorm, Cursor
 
 ### 🖥️ OS & Servers
 ✅ Linux (Ubuntu) • Windows • GNU/Unix  
