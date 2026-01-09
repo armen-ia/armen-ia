@@ -2,7 +2,7 @@
 
 💼 **Full stack:** Python/Django • PHP/Laravel • Node.js  
 🤖 **AI Automation:** n8n • Zapier • Make  
-💲 **Rate:** $33/hr  
+
 📍 **Based in Armenia** 🇦🇲 • 🌐 Leading a web development agency with **12+ years** of experience
 
 ---
